@@ -1,6 +1,11 @@
-# Welcome to our thesis project 👋
+# Welcome to Our Software Development Team on GitHub 👋
+## Development page for the implementation of our program on the Raspberry Pi 4 Model B
 
 **CocoKnock** is an undergraduate thesis project conducted by Bachelor of Science in Electronics Engineering (BSECE) students from Pamantasan ng Lungsod ng Pasig. The study aims to design and develop a handheld device capable of determining the maturity level of coconuts through shell their color using HSV image processing, and acoustic feedback recorded from solenoid-induced tapping.
+
+Our team is composed of eight (8) fourth-year students currently enrolled in the CAPSTONE 2 course for this semester. This project serves as a requirement for the completion of the Bachelor of Science in Electronics Engineering (BSECE) degree.
+
+**This project is currently under development**
 
 <!--
 
