@@ -1,5 +1,5 @@
 # Welcome to Our Software Development Team on GitHub 👋
-## Development page for the implementation of our program on the Raspberry Pi 4 Model B
+## CocoKnock: Coconut Maturity Classification Device
 
 **CocoKnock** is an undergraduate thesis project conducted by Bachelor of Science in Electronics Engineering (BSECE) students from Pamantasan ng Lungsod ng Pasig. The study aims to design and develop a handheld device capable of determining the maturity level of coconuts through shell their color using HSV image processing, and acoustic feedback recorded from solenoid-induced tapping.
 
